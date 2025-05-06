@@ -1,56 +1,71 @@
-<h1 align="center">Hi, I'm Sinan 👋</h1>
+<h1 align="center">Hi there, I'm Sinan 👋</h1>
 <p align="center">
-  🚀 Frontend Engineer | 🧠 Debugging Enthusiast | 🛠️ Vue & TypeScript Specialist
+  🧑‍💻 Frontend Engineer | 🛠️ TypeScript & Vue Specialist | ⚡ Debugging Aficionado
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20scalable%20web%20apps...;Loving%20clean%20code%20and%20UX;Always%20learning%20something%20new!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+modern+frontend+apps...;Loving+clean+code+and+UX;Always+learning+new+things!" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 💼 Frontend-focused full-stack dev, experienced with scaling SaaS platforms  
-- 🔭 Recently worked at [Superthread](https://superthread.com/) on complex project management tools  
-- ⚙️ Tech I work with daily: `Vue.js`, `TypeScript`, `Tailwind CSS`, `Vitest`, `AWS`, `Cypress`, `WebSockets`, `Golang`  
-- 🧑‍🏫 I mentor junior developers and care deeply about maintainable architecture and clean code  
-- ⚡ Fun fact: I love debugging, system design discussions, and performance optimization
+- 💼 Frontend-focused full-stack developer with SaaS product experience  
+- 🧠 Enjoy tackling technical debt and improving performance  
+- 💬 Passionate about great UX, accessibility, and design systems  
+- 🧑‍🏫 Mentor & collaborator – I care about maintainable code and teamwork  
+- 📍 Based in Sarajevo — open to remote-first opportunities
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E40C9?style=flat&logo=vitest&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=fff)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E40C9?style=for-the-badge&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinansubara&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinansubara&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sinansubara&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&hide_border=true&custom_title=GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinansubara&theme=ocean_dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📊 Top Languages
 
 <p align="center">
-  <a href="https://github.com/sinansubara"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/sinansubara"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="mailto:sinan.subara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansubara&layout=compact&theme=ocean_dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-⭐️ Feel free to explore my repos or reach out if you'd like to collaborate!
+### ⌨️ WakaTime Stats (Last 7 Days)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sinansubara&theme=ocean_dark&hide_border=true" />
+</p>
+
+---
+
+### 📬 Reach Me
+
+<p align="center">
+  <a href="mailto:sinan.subara@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sinansubara/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sinansubara"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ _Thanks for stopping by! Let’s build something cool together._
