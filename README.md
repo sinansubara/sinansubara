@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinansubara&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&hide_border=true&custom_title=GitHub%20Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinansubara&theme=ocean_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinansubara&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -50,14 +50,6 @@
 
 ---
 
-### ⌨️ WakaTime Stats (Last 7 Days)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sinansubara&theme=ocean_dark&hide_border=true" />
-</p>
-
----
-
 ### 📬 Reach Me
 
 <p align="center">
@@ -65,7 +57,3 @@
   <a href="https://www.linkedin.com/in/sinansubara/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sinansubara"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-⭐️ _Thanks for stopping by! Let’s build something cool together._
